@@ -7,7 +7,7 @@
 # XDA : https://forum.xda-developers.com/android/software-hacking/goodbye-ads-advanced-protection-ads-ad-t3827269
 #
 # Type : GoodbyeAds-YouTube-Core Blocklist
-# Updated On: 21-07-2020 
+# Updated On: 30-09-2023 
 # Created by:Jerryn70 (XDA Senior Member)
 
 # Stage 2..
@@ -21859,7 +21859,6 @@ r17---sn-5hnekn7l.googlevideo.com
 r18---sn-5hnekn7l.googlevideo.com
 r19---sn-5hnekn7l.googlevideo.com
 r20---sn-5hnekn7l.googlevideo.com
-i.ytimg.com
 i1.ytimg.com
 i2.ytimg.com
 i9.ytimg.com
